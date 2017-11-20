@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datastreams.iml" filepath="$PROJECT_DIR$/.idea/modules/datastreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datastreams-build.iml" filepath="$PROJECT_DIR$/.idea/modules/datastreams-build.iml" />
+    </modules>
+  </component>
+</project>
