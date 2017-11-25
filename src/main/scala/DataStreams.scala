@@ -72,7 +72,7 @@ object DataStreams {
     countGlobalTriangles
       .countWindowAll(w)
       .max(0)
-      .print()
+      .print().setParallelism(1)
 
     // Run pipeline
     env.execute("Approximation global triangles from stream")
